@@ -1,0 +1,4 @@
+TERMINALS ( )
+NONTERMINALS S
+S -> ( S )
+S -> e
