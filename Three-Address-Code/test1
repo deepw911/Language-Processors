@@ -1,0 +1,10 @@
+void main()
+{
+    int sum,i,j,n;
+    sum=0; 
+    int k;
+	for (i=0;i<n +k-1 ; i=i+1)
+	{
+		sum = sum + i*10-k;
+	}    
+}
